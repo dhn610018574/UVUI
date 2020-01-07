@@ -60,7 +60,7 @@ Vue.use(Uvvi)
 
 ## 贡献
 
-如果你在使用 `VV-UI` 时遇到问题，或者有好的建议，欢迎给我们提 [Issue](https://github.com/dhn610018574/UVUI/issues) 或 [Pull Request](https://github.com/dhn610018574/UVUI/pulls)
+如果你在使用 `UV-UI` 时遇到问题，或者有好的建议，欢迎给我们提 [Issue](https://github.com/dhn610018574/UVUI/issues) 或 [Pull Request](https://github.com/dhn610018574/UVUI/pulls)
 
 
 ## Pull requests 规范
