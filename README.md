@@ -5,12 +5,12 @@
 </p>
 
 # 公告
-这个 `UI`库的核心想法是想教大家如何搭建一个基于`Vue`的组件库。市面上已经有很多成熟的中后台组件库，比如`element-ui`和`iview`。这个组件库也是由我一个人维护开发，不建议使用到生产环境，如果有兴趣，可以`fork`下来作为自己技术探索的一个部分。感谢大家的支持，也欢迎大家加我QQ群：`263785852` 一起学习交流。
+这个 `UI`库的核心想法是想教大家如何搭建一个基于`Vue`的组件库。市面上已经有很多成熟的中后台组件库，比如`element-ui`和`ant-design`。这个组件库也是由我一个人维护开发，不建议使用到生产环境，如果有兴趣，可以`fork`下来作为自己技术探索的一个部分。感谢大家的支持，也欢迎大家加我QQ群：`1878698541@qq.com` 一起学习交流。
 
 # VV UI
 
 `VV-UI` 是一款基于 `Vue.js 2.0` 的前端 UI 组件库，主要用于快速开发 PC 网站中后台产品
-[演示地址](https://vv-ui.github.io/VV-UI)
+<!-- [演示地址](https://vv-ui.github.io/VV-UI) -->
 
 <p align="center">
   <a href="https://github.com/feross/standard">
@@ -32,35 +32,35 @@
 ## 浏览器支持
 
 - 现代浏览器和 IE9 及以上
-- [Electron](http://electron.atom.io/)
-- [NW.js](http://nwjs.io)
+<!-- - [Electron](http://electron.atom.io/) -->
+<!-- - [NW.js](http://nwjs.io) -->
 
 ## 安装
 
 - yarn
 
 ```bash
-yarn add vvui
+yarn add uvvi
 ```
 
 - npm 
 
 ```bash
-npm install vvui --save
+npm install uvvi --save
 ```
 
 ## 使用
 
 ```js
-import VvUI from 'vvui' // 引入组件库
-import 'vvui/packages/theme-default/lib/index.css' // 引入样式库
+import Uvvi from 'uvvi' // 引入组件库
+import 'uvvi/packages/theme-default/lib/index.css' // 引入样式库
 
-Vue.use(VvUI)
+Vue.use(Uvvi)
 ```
 
 ## 贡献
 
-如果你在使用 `VV-UI` 时遇到问题，或者有好的建议，欢迎给我们提 [Issue](https://github.com/VV-UI/VV-UI/issues) 或 [Pull Request](https://github.com/VV-UI/VV-UI/pulls)
+如果你在使用 `VV-UI` 时遇到问题，或者有好的建议，欢迎给我们提 [Issue](https://github.com/dhn610018574/UVUI/issues) 或 [Pull Request](https://github.com/dhn610018574/UVUI/pulls)
 
 
 ## Pull requests 规范
